@@ -1,0 +1,11 @@
+*.py
+*.pdf
+.generated_files/
+.vscode/
+build/
+debug/
+dist/
+nbproject/
+OldSrc/
+Makefile
+
